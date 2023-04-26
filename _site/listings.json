@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/data/software/software.html",
+    "items": []
+  },
+  {
+    "listing": "/capacitacion.html",
+    "items": [
+      "/about.html",
+      "/index.html",
+      "/data/software/software.html"
+    ]
+  }
+]

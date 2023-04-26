@@ -1,0 +1,30 @@
+---
+title: "Software"
+subtitle: "holi software"
+listing: 
+  type: grid
+  categories: true
+search: false
+execute:
+  echo: false
+page-layout: full
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .col-lg-4}
+
+# software 1
+```{=html}
+
+```
+:::
+
+::: {.g-col-12 .g-col-md-6 .col-lg-4}
+# Software 2
+```{=html}
+
+```
+:::
+
+:::
