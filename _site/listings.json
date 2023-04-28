@@ -10,7 +10,15 @@
   {
     "listing": "/capacitacion.html",
     "items": [
-      "/about.html",
+      "/contact.html",
+      "/index.html",
+      "/data/software/software.html"
+    ]
+  },
+  {
+    "listing": "/contact.html",
+    "items": [
+      "/capacitacion.html",
       "/index.html",
       "/data/software/software.html"
     ]

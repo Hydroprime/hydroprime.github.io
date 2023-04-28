@@ -1,21 +1,28 @@
 project:
   type: website
-
-website:
+website: 
   title: "Hydroprime"
+  twitter-card:
+    creator: "@geomarperales"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - text: "software"
         href: data/software/software.qmd
-
+      - capacitacion.qmd
+      - contact.qmd
+  page-footer:
+    left: "Hydroprime"
+    right: |
+      Made by Hydroprime`
+    center: |
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    
 
 
 
