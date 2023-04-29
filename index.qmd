@@ -1,6 +1,6 @@
 ---
 title: "Hydroprime"
-image: data/images/logo-portada/logo2.jpg
+image: data/images/logo-portada/logo1.png
 keywords: ["Hidrologia", "Python", "R", "hydroprime"]
 listing:
   contents: posts

@@ -1,9 +1,8 @@
 ---
 title: "Contacto"
-subtitle: "Contacto"
 listing: 
   type: grid
-  categories: true
+  categories: false
 search: false
 execute:
   echo: false

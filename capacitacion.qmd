@@ -1,28 +1,32 @@
 ---
 title: "Capacitación"
-subtitle: "Capacitación"
 listing: 
-  type: grid
-  categories: true
-search: false
+  categories: false
+search: true
 execute:
   echo: false
 page-layout: full
 ---
 
-# Capacitación
+¿Deseas emprender el camino del aprendizaje en lenguajes de
+programación? ¿aprender R para Hidrología? ¿Python para
+ArcGIS?
 
-Las capacitaciones de Hydroprime simplifican experiencias desarrollando código (Python, R y MATLAB) y participando de proyectos en Recursos Hídricos aplicando lenguajes de programación para automatizar actividades y optimizar tareas.
+Si es tú primera vez usando R o Python, puedes aprovechar los
+recursos disponibles en Hydroprime para aprender lenguajes de
+programación orientados a los recursos hídricos.
 
-Actualmente, Hydroprime ofrece las siguientes capacitaciones:
+# Taller virtual: Python para ArcGIS
 
-## Taller virtual: Python para ArcGIS
-
-
-
-## Curso Profesional: R para Hidrología
+```{r, echo=FALSE}
+knitr::include_graphics("data/images/training/TV_Python_ArcGIS.png")
+```
 
 
+# Curso Profesional: R para Hidrología
 
+```{r, echo=FALSE}
+knitr::include_graphics("data/images/training/TV_Python_ArcGIS.png")
+```
 
 Para ver los medios de pago para Perú (BBVA, BCP, YAPE y PLIN) y en el exterior (Paypal y Western Union), visita el siguiente enlace: Medios de pago de Hydroprime.
