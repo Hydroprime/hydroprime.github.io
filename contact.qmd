@@ -2,7 +2,7 @@
 title: "Contacto"
 listing: 
   type: grid
-  categories: false
+  categories: true
 search: false
 execute:
   echo: false

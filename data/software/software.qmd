@@ -1,6 +1,5 @@
 ---
 title: "Software"
-subtitle: "holi software"
 listing: 
   type: grid
   categories: true

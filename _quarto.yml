@@ -8,8 +8,10 @@ website:
         text: Home
       - text: "software"
         href: data/software/software.qmd
-      - capacitacion.qmd
-      - contact.qmd
+      - text: "training"
+        href: training.qmd
+      - text: "contacto"
+        href: contact.qmd
   page-footer:
     left: "Hydroprime"
     right: |

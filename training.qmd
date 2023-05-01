@@ -1,8 +1,9 @@
 ---
-title: "Capacitación"
+title: "Training"
 listing: 
-  categories: false
-search: true
+  type: grid
+  categories: true
+search: false
 execute:
   echo: false
 page-layout: full
