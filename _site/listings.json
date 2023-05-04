@@ -19,7 +19,15 @@
   {
     "listing": "/contact.html",
     "items": [
-      "/capacitacion.html",
+      "/index.html",
+      "/data/software/software.html",
+      "/training.html"
+    ]
+  },
+  {
+    "listing": "/training.html",
+    "items": [
+      "/contact.html",
       "/index.html",
       "/data/software/software.html"
     ]

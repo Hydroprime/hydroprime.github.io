@@ -1,12 +1,5 @@
 ---
 title: "Training"
-listing: 
-  type: grid
-  categories: true
-search: false
-execute:
-  echo: false
-page-layout: full
 ---
 
 ¿Deseas emprender el camino del aprendizaje en lenguajes de
@@ -17,17 +10,20 @@ Si es tú primera vez usando R o Python, puedes aprovechar los
 recursos disponibles en Hydroprime para aprender lenguajes de
 programación orientados a los recursos hídricos.
 
-# Taller virtual: Python para ArcGIS
+# **Taller virtual: Python para ArcGIS**
 
 ```{r, echo=FALSE}
 knitr::include_graphics("data/images/training/TV_Python_ArcGIS.png")
 ```
 
 
-# Curso Profesional: R para Hidrología
+# **Curso Profesional: R para Hidrología**
 
 ```{r, echo=FALSE}
 knitr::include_graphics("data/images/training/TV_Python_ArcGIS.png")
 ```
+
+**<span style='color: red;'> Si estás llevando uno de nuestros cursos o talleres, tendrás diversos beneficios como: acceso gratuito a webinars y talleres virtuales.</span>**
+
 
 Para ver los medios de pago para Perú (BBVA, BCP, YAPE y PLIN) y en el exterior (Paypal y Western Union), visita el siguiente enlace: Medios de pago de Hydroprime.

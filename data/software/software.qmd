@@ -1,12 +1,5 @@
 ---
 title: "Software"
-listing: 
-  type: grid
-  categories: true
-search: false
-execute:
-  echo: false
-page-layout: full
 ---
 
 ::: {.grid}
