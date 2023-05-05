@@ -3,7 +3,7 @@ project:
 website: 
   title: "Hydroprime"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - text: "software"
@@ -12,6 +12,15 @@ website:
         href: training.qmd
       - text: "contacto"
         href: contact.qmd
+        
+  sidebar:
+    - title: "Tutorials"
+      style: "docked"
+      background: light
+      contents:
+      - text: "training"
+        href: training.qmd
+        
   page-footer:
     left: "Hydroprime"
     right: |
