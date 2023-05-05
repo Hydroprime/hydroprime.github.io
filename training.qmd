@@ -2,9 +2,12 @@
 title: "Training"
 ---
 
-¿Deseas emprender el camino del aprendizaje en lenguajes de programación? ¿aprender R para Hidrología? ¿Python para ArcGIS?
+¿Deseas emprender el camino del aprendizaje en lenguajes de programación?
+¿aprender R para Hidrología? ¿Python para ArcGIS?
 
-Si es tú primera vez usando R o Python, puedes aprovechar los recursos disponibles en Hydroprime para aprender lenguajes de programación orientados a los recursos hídricos.
+Si es tú primera vez usando R o Python, puedes aprovechar los recursos disponibles
+en Hydroprime para aprender lenguajes de programación orientados a los recursos
+hídricos.
 
 # **Taller virtual: Python para ArcGIS**
 
@@ -12,13 +15,20 @@ Si es tú primera vez usando R o Python, puedes aprovechar los recursos disponib
 knitr::include_graphics("data/images/training/TV_Python_ArcGIS.png")
 ```
 
+- Para ver el temario del curso, haz clic aquí: [**Python para ArcGIS**](https://drive.google.com/file/d/1wAi0FbztUdw_sHX-shLHodJ-QoGxdpMr/)
+
+- Para comprar el curso, [**haz clic aquí**]()
+
 # **Curso Profesional: R para Hidrología**
 
 ```{r, echo=FALSE}
 knitr::include_graphics("data/images/training/TV_Python_ArcGIS.png")
 ```
 
-[**Si estás llevando uno de nuestros cursos o talleres, tendrás diversos beneficios 
-como: acceso gratuito a webinars y talleres virtuales.**]{style="color: #045FB4;"}
+- Para ver el temario del curso, haz clic aquí: [**R para Hidrología**](https://drive.google.com/file/d/1A5ybBTkSbwAw8HYm8HfH9qXficrj5ahD/)
+
+- Para comprar el curso, [**haz clic aquí**]()
+
+[**Si estás llevando uno de nuestros cursos o talleres, tendrás diversos beneficios como: acceso gratuito a webinars y talleres virtuales.**]{style="color: #045FB4;"}
 
 Para ver los medios de pago para Perú [**(BBVA, BCP, YAPE y PLIN)**]{style="color: #045FB4;"} y en el exterior [**(Paypal y Western Union)**]{style="color: #045FB4;"}, visita el siguiente enlace: [**Medios de pago de Hydroprime**](https://drive.google.com/file/d/1XMX6-tuIVCRSircSduglOSvvbtdZmrkl/).
