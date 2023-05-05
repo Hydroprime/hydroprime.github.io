@@ -20,6 +20,8 @@ website:
       contents:
       - text: "training"
         href: training.qmd
+      - text: "github"
+        href: https://github.com/
         
   page-footer:
     left: "Hydroprime"
