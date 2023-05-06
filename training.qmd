@@ -3,11 +3,11 @@ title: "Training"
 ---
 
 ¿Deseas emprender el camino del aprendizaje en lenguajes de programación?
-¿aprender R para Hidrología? ¿Python para ArcGIS?
+¿aprender R para Hidrología?¿Python para ArcGIS?¿mejorar tus habilidades?
 
-Si es tú primera vez usando R o Python, puedes aprovechar los recursos disponibles
-en Hydroprime para aprender lenguajes de programación orientados a los recursos
-hídricos.
+Si es tú primera vez usando R o Python, puedes aprovechar los recursos
+disponibles en Hydroprime para aprender lenguajes de programación orientados
+a los recursos hídricos.
 
 # **Taller virtual: Python para ArcGIS**
 

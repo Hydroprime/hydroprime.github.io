@@ -13,20 +13,18 @@ website:
       - text: "contacto"
         href: contact.qmd
         
-  sidebar:
-    - title: "Tutorials"
-      style: "docked"
-      background: light
-      contents:
-      - text: "training"
-        href: training.qmd
-      - text: "github"
-        href: https://github.com/
-        
   page-footer:
-    left: "Hydroprime"
+    left:
+      - icon: github
+        href: https://github.com/Hydroprime/
+      - icon: linkedin
+        href: https://www.linkedin.com/company/hydroprime
+      - icon: facebook
+        href: https://www.facebook.com/hydroresilient/
+      - icon: wordpress
+        href: https://hydroprime.wordpress.com/ 
     right: |
-      Made by Hydroprime`
+      Made by Hydroprime and Quarto`
     center: |
 format:
   html:
