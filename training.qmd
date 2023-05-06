@@ -2,8 +2,7 @@
 title: "Training"
 ---
 
-¿Deseas emprender el camino del aprendizaje en lenguajes de programación?
-¿aprender R para Hidrología?¿Python para ArcGIS?¿mejorar tus habilidades?
+[**¿Deseas emprender el camino del aprendizaje en lenguajes de programación? ¿aprender R para Hidrología?¿Python para ArcGIS?¿mejorar tus habilidades de programación?**]{style="color: #045FB4;"}
 
 Si es tú primera vez usando R o Python, puedes aprovechar los recursos
 disponibles en Hydroprime para aprender lenguajes de programación orientados
