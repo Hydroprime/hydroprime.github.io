@@ -2,6 +2,8 @@
 title: "Software"
 ---
 
+
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .col-lg-4}
@@ -18,5 +20,21 @@ title: "Software"
 
 ```
 :::
+
+::: {.g-col-12 .g-col-md-6 .col-lg-4}
+# Software 3
+```{=html}
+
+```
+:::
+
+::: {.g-col-12 .g-col-md-6 .col-lg-4}
+# Software 4
+```{=html}
+
+```
+:::
+
+
 
 :::

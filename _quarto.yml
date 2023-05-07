@@ -12,11 +12,11 @@ website:
         href: training.qmd
       - text: "contacto"
         href: contact.qmd
-        
+  sidebar:
+    search: true
+    
   page-footer:
     left:
-      - icon: github
-        href: https://github.com/Hydroprime/
       - icon: linkedin
         href: https://www.linkedin.com/company/hydroprime
       - icon: facebook
