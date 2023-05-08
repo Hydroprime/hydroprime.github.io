@@ -18,7 +18,7 @@
     "href": "data/software/software.html",
     "title": "Software",
     "section": "",
-    "text": "software 1\n\n\n\nSoftware 2\n\n\n\nSoftware 3\n\n\n\nSoftware 4"
+    "text": "RPisco: paquete en R para manipular datos del producto PISCO\nRPisco es un paquete desarrollado en R con herramientas para manejar el producto PISCO (SENAMHI, Perú).\nPara ver el código fuente, : clic aquí\n\n\noaxlsx: paquete en R para leer y preparar data descargada del ANA.\noaxlsx es un paquete desarrollado en R con una herramienta para pre-procesar datos descargados del ANA, el paquete permite leer, ordenar y convertir en dataframe a los datos descargados.\nPara ver el código fuente, : clic aquí\n\n\nSoftware 3\n\n\n\nSoftware 4"
   },
   {
     "objectID": "training.html",

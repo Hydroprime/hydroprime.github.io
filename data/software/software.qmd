@@ -2,23 +2,31 @@
 title: "Software"
 ---
 
-
+ 
+ 
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .col-lg-4}
 
-# software 1
-```{=html}
+# RPisco: paquete en R para manipular datos del producto PISCO 
 
-```
+**RPisco** es un paquete desarrollado en R con herramientas para manejar el
+producto PISCO (SENAMHI, Perú).
+
+Para ver el código fuente, : [clic aquí](https://github.com/GeomarPerales/RPisco)
+
 :::
 
 ::: {.g-col-12 .g-col-md-6 .col-lg-4}
-# Software 2
-```{=html}
+# oaxlsx: paquete en R para leer y preparar data descargada del ANA.
 
-```
+**oaxlsx** es un paquete desarrollado en R con una herramienta para pre-procesar
+datos descargados del ANA, el paquete permite leer, ordenar y convertir en
+dataframe a los datos descargados.
+
+Para ver el código fuente, : [clic aquí](https://github.com/GeomarPerales/oaxlsx)
+
 :::
 
 ::: {.g-col-12 .g-col-md-6 .col-lg-4}
