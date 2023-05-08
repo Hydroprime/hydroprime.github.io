@@ -18,7 +18,7 @@
     "href": "data/software/software.html",
     "title": "Software",
     "section": "",
-    "text": "RPisco: paquete en R para manipular datos del producto PISCO\nRPisco es un paquete desarrollado en R con herramientas para manejar el producto PISCO (SENAMHI, Perú).\nPara ver el código fuente, : clic aquí\n\n\noaxlsx: paquete en R para leer y preparar data descargada del ANA.\noaxlsx es un paquete desarrollado en R con una herramienta para pre-procesar datos descargados del ANA, el paquete permite leer, ordenar y convertir en dataframe a los datos descargados.\nPara ver el código fuente, : clic aquí\n\n\nSoftware 3\n\n\n\nSoftware 4"
+    "text": ":material-clock-fast:{ .lg .middle } Set up in 5 minutes\n\nInstall mkdocs-material with pip and get up and running in minutes\n:octicons-arrow-right-24: Getting started\n:fontawesome-brands-markdown:{ .lg .middle } It’s just Markdown\n\nFocus on your content and generate a responsive and searchable static site\n:octicons-arrow-right-24: Reference\n:material-format-font:{ .lg .middle } Made to measure\n\nChange the colors, fonts, language, icons, logo and more with a few lines\n:octicons-arrow-right-24: Customization\n:material-scale-balance:{ .lg .middle } Open Source, MIT\n\nMaterial for MkDocs is licensed under MIT and available on [GitHub]\n:octicons-arrow-right-24: License"
   },
   {
     "objectID": "training.html",

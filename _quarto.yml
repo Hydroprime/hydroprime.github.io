@@ -12,8 +12,6 @@ website:
         href: training.qmd
       - text: "contacto"
         href: contact.qmd
-  sidebar:
-    search: true
     
   page-footer:
     left:
@@ -33,7 +31,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    
+
 
 
 
