@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/index.html</loc>
+    <lastmod>2023-05-17T21:47:15.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hydroprime.github.io/index.html</loc>
+    <lastmod>2023-05-17T23:12:30.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hydroprime.github.io/data/software/software.html</loc>
+    <lastmod>2023-05-17T23:12:28.965Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hydroprime.github.io/training.html</loc>
+    <lastmod>2023-05-17T23:12:28.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hydroprime.github.io/contact.html</loc>
+    <lastmod>2023-05-17T23:12:27.263Z</lastmod>
+  </url>
+</urlset>

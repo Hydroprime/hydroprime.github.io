@@ -2,6 +2,9 @@ project:
   type: website
 website: 
   title: "Hydroprime"
+  favicon: /data/images/logo/logo1.png
+  twitter-card: true
+  site-url: https://hydroprime.github.io
   navbar:
     left:
       - href: index.qmd
@@ -26,6 +29,10 @@ website:
     right: |
       Made by Hydroprime and Quarto`
     center: |
+    
+  margin-header: |
+      ![](/data/images/logo/logo1.png)
+      
 format:
   html:
     theme: cosmo
