@@ -1,5 +1,4 @@
 ---
-title: "Hydroprime"
 image: data/images/logo-portada/logo1.png
 keywords: ["Hidrologia", "Python", "R", "hydroprime"]
 listing:
