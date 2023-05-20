@@ -1,9 +1,14 @@
 ---
-title: "Software"
+title: "Products"
 ---
 
+[R](\data\products\R.qmd)
 
-jejeje
+
+[Python](\data\products\python.qmd)
+
+
+[MATLAB](\data\products\matlab.qmd)
 
 
 
