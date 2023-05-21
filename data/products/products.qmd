@@ -8,7 +8,7 @@ title: "Products"
 [**R**]{style="color: #045FB4;"} es un lenguaje flexible e intuitivo, dispone de
 muchas aplicaciones en el análisis de datos.
 
-Para ver los productos desarrollados en [**R**]{style="color: #045FB4;"} haz clic
+Los productos desarrollados en [**R**]{style="color: #045FB4;"} están
 en: [R-dev](/data/products/R.qmd)
 
 :::
@@ -16,7 +16,7 @@ en: [R-dev](/data/products/R.qmd)
 ::: {.g-col-4}
 [**Python**]{style="color: #045FB4;"} es un lenguaje multipropósito y escalable.
 
-Para ver los productos desarrollados en [**Python**]{style="color: #045FB4;"} haz clic en: [Python-dev](/data/products/python.qmd)
+Los productos desarrollados en [**Python**]{style="color: #045FB4;"} están en: [Python-dev](/data/products/python.qmd)
 
 :::
 
@@ -24,7 +24,7 @@ Para ver los productos desarrollados en [**Python**]{style="color: #045FB4;"} ha
 ::: {.g-col-4} 
 [**MATLAB**]{style="color: #045FB4;"} es una plataforma de programación y calculo numérico, basado en el lenguaje [**M**]{style="color: #045FB4;"}.
 
-Para ver los productos desarrollados en [**MATLAB**]{style="color: #045FB4;"} haz clic en: [MATLAB-dev](/data/products/matlab.qmd)
+Los productos desarrollados en [**MATLAB**]{style="color: #045FB4;"} están en: [MATLAB-dev](/data/products/matlab.qmd)
 
 :::
 
