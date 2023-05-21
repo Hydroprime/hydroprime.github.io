@@ -2,13 +2,42 @@
 title: "Products"
 ---
 
-[R](\data\products\R.qmd)
+::: {.grid}
+
+::: {.g-col-4}
+**R** es un lenguaje flexible e intuitivo, con muchas aplicaciones en el
+análisis de datos, para ver los productos desarrollados en **R** haz clic en:
+
+[R-dev](/data/products/R.qmd)
+
+:::
+
+::: {.g-col-4}
+**Python** es un lenguaje multipropósito y escalable, para ver los productos desarrollados en **Python** haz clic en:
+
+[Python-dev](/data/products/python.qmd)
+
+:::
 
 
-[Python](\data\products\python.qmd)
+::: {.g-col-4} 
+**MATLAB** es una plataforma de programación y calculo numérico, basado en el
+lenguaje **M**,  para ver los productos desarrollados en **MATLAB** haz clic en:
+
+[MATLAB-dev](/data/products/matlab.qmd)
+
+:::
+
+:::
 
 
-[MATLAB](\data\products\matlab.qmd)
+
+
+
+
+
+
+
 
 
 

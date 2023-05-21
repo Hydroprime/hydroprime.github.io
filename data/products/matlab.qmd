@@ -2,12 +2,5 @@
 title: "Matlab"
 ---
 
-R
-
-Python
-
-
-MATLAB
-
 
 

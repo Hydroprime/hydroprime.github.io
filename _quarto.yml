@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - text: "Productos"
-        href: data/software/products.qmd
+        href: data/products/products.qmd
       - text: "training"
         href: training.qmd
       - text: "contacto"

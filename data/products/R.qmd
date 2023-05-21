@@ -2,12 +2,5 @@
 title: "R"
 ---
 
-R
-
-Python
-
-
-MATLAB
-
-
+# Productos
 
