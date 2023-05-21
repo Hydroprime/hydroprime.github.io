@@ -5,9 +5,11 @@ title: "Products"
 ::: {.grid}
 
 ::: {.g-col-4}
-[**R**]{style="color: #045FB4;"} es un lenguaje flexible e intuitivo, con muchas aplicaciones en el análisis de datos.
+[**R**]{style="color: #045FB4;"} es un lenguaje flexible e intuitivo, dispone de
+muchas aplicaciones en el análisis de datos.
 
-Para ver los productos desarrollados en [**R**]{style="color: #045FB4;"} haz clic en: [R-dev](/data/products/R.qmd)
+Para ver los productos desarrollados en [**R**]{style="color: #045FB4;"} haz clic
+en: [R-dev](/data/products/R.qmd)
 
 :::
 

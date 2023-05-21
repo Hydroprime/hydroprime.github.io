@@ -39,7 +39,7 @@
     "href": "data/products/products.html",
     "title": "Products",
     "section": "",
-    "text": "R es un lenguaje flexible e intuitivo, con muchas aplicaciones en el análisis de datos.\nPara ver los productos desarrollados en R haz clic en: R-dev\n\n\nPython es un lenguaje multipropósito y escalable.\nPara ver los productos desarrollados en Python haz clic en: Python-dev\n\n\nMATLAB es una plataforma de programación y calculo numérico, basado en el lenguaje M.\nPara ver los productos desarrollados en MATLAB haz clic en: MATLAB-dev"
+    "text": "R es un lenguaje flexible e intuitivo, dispone de muchas aplicaciones en el análisis de datos.\nPara ver los productos desarrollados en R haz clic en: R-dev\n\n\nPython es un lenguaje multipropósito y escalable.\nPara ver los productos desarrollados en Python haz clic en: Python-dev\n\n\nMATLAB es una plataforma de programación y calculo numérico, basado en el lenguaje M.\nPara ver los productos desarrollados en MATLAB haz clic en: MATLAB-dev"
   },
   {
     "objectID": "data/products/matlab.html",
