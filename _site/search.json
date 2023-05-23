@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Hydroprime",
     "section": "",
-    "text": "No matching items"
+    "text": "This column takes 1/3 of the page\n\n\nThis column takes 2/3 of the page\n\n\nThis column takes 3/3 of the page\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data/software/software.html",
@@ -37,9 +37,9 @@
   {
     "objectID": "data/products/products.html",
     "href": "data/products/products.html",
-    "title": "Products",
+    "title": "Productos",
     "section": "",
-    "text": "R es un lenguaje muy flexible e intuitivo, dispone de muchas aplicaciones en el análisis de datos.\nLos productos desarrollados en R están en: R-dev\n\n\nPython tiene muchas aaaaaaaa aplicaciones a diferentes entornos y escalable.\ncuenta con\nroductos desarrollados en Python están en: Python-dev\n\n\nMATLAB es una plataforma de programación , basado en el lenguaje M.\nLos productos desarrollados en MATLAB están en: Mat-dev"
+    "text": "R es un lenguaje muy flexible e intuitivo, dispone de muchas aplicaciones en el análisis y visualización de datos.\nLos productos desarrollados en R están en: R-dev\n\n\nPython es un lenguaje aplicado en diferentes áreas dado que es potente y escalable.\nLos Productos desarrollados en Python están en: Python-dev\n\n\nMATLAB es una plataforma de programación basado en el lenguaje M, es sencillo de usar y tiene herramientas adicionales.\nLos productos desarrollados en MATLAB están en: Mat-dev"
   },
   {
     "objectID": "data/products/matlab.html",
@@ -60,6 +60,6 @@
     "href": "data/products/R.html",
     "title": "R",
     "section": "",
-    "text": "R\nPython\nMATLAB"
+    "text": "Productos"
   }
 ]
