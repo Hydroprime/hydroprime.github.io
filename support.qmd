@@ -2,8 +2,4 @@
 title: "Soporte Técnico"
 ---
 
-```{r, echo=FALSE}
-knitr::include_graphics("data/images/logo/port1.png")
-```
-
 Para chatear con alguien [haz clic aquí](https://wa.me/message/27B6XWJBVALAN1)
