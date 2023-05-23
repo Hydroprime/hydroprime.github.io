@@ -13,8 +13,8 @@ website:
         href: data/products/products.qmd
       - text: "training"
         href: training.qmd
-      - text: "contacto"
-        href: contact.qmd
+      - text: "Soporte"
+        href: support.qmd
     
   page-footer:
     left:
