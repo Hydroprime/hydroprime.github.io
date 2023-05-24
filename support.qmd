@@ -2,4 +2,8 @@
 title: "Soporte Técnico"
 ---
 
-Para chatear con alguien [haz clic aquí](https://wa.me/message/27B6XWJBVALAN1)
+Para chatear con alguien [haz clic aquí](https://wa.me/message/27B6XWJBVALAN1)}
+
+```{r, echo=FALSE, out.width = "20%", fig.align = "center"}
+knitr::include_graphics("data/images/logo/whats.png")
+```
