@@ -10,14 +10,22 @@ Para chatear y conocer más, [haz clic aquí](https://wa.me/message/27B6XWJBVALA
 
 # **Fuentes y Material de apoyo**
 
-> ## **Programación avanzada en Python para GIS**
+>
+> ## Programación avanzada en Python para GIS
 > 
-> El curso está desarrollado por el Departamento de Geografía de la Universidad
-> de Pensilvania (Estados Unidos).
-> - para ver el curso, [haz lic aquí](https://www.e-education.psu.edu/geog489/home.html)
+> El curso está desarrollado por el Departamento de Geografía de la **Universidad
+> de Pensilvania (Estados Unidos)**, es totalmente gratuito. 
+>
+> para ver el curso, [haz clic aquí](https://www.e-education.psu.edu/geog489/home.html)
 >
 
-> beta
-[]()
 
+>
+> ## Catálogo de Visualización de datos
+> 
+> El curso está desarrollado por el Departamento de Geografía de la Universidad
+> de Pensilvania (Estados Unidos), es totalmente gratuito. 
+>
+> para ver la página, [haz clic aquí](https://datavizcatalogue.com/)
+>
 
