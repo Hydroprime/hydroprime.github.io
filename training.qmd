@@ -1,5 +1,5 @@
 ---
-title: "Training"
+title: "TRAINING"
 ---
 
 [**¿Deseas emprender el camino del aprendizaje en lenguajes de programación? ¿aprender R para Hidrología? ¿Python para ArcGIS? ¿mejorar tus habilidades de
