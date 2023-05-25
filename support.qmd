@@ -35,7 +35,7 @@ Para chatear y conocer más, [haz clic aquí](https://wa.me/message/27B6XWJBVALA
 > Son tutoriales orientados a usuarios de R, no requieren conocimientos de 
 > análisis espacial, los tutoriales incluyen datos y ejercicios de apoyo. 
 >
-> para ver la página, [haz clic aquí](https://www.nickeubank.com/gis-in-r/)
+> para ver los tutoriales, [haz clic aquí](https://www.nickeubank.com/gis-in-r/)
 >
 
 
