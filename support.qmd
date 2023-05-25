@@ -4,6 +4,11 @@ title: "SOPORTE TÉCNICO"
 
 # **Contacto**
 
+```{r, echo=FALSE}
+library(icons)
+fontawesome("rocket", style = "solid")
+```
+
 Para chatear y conocer más, [haz clic aquí](https://wa.me/message/27B6XWJBVALAN1)
 
 
