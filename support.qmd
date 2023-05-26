@@ -4,7 +4,7 @@ title: "SOPORTE TÉCNICO"
 
 # **Contacto**
 
-```{r icon-style}
+```{r icon-style, align = "center", warning=FALSE, echo=FALSE}
 library(icons)
 icon_style(fontawesome("rocket", style = "solid"), scale = 2, fill = "red")
 ```
