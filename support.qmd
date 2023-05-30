@@ -4,41 +4,24 @@ title: "SOPORTE TÉCNICO"
 
 # **Contacto**
 
+Para chatear y conocer más de [**Hydroprime**]{style="color: #045FB4;"}, [haz clic aquí](https://wa.me/message/27B6XWJBVALAN1) 💬💻
 
+# **Fuentes y Material de apoyo** 
 
-Para chatear y conocer más de [**Hydroprime**]{style="color: #045FB4;"}, [haz clic aquí](https://wa.me/message/27B6XWJBVALAN1)  :droplet  :computer
-
-
-
-# **Fuentes y Material de apoyo**
-
->
 > ## Programación avanzada en Python para GIS
-> 
-> El curso está desarrollado por el Departamento de Geografía de la **Universidad
-> de Pensilvania (Estados Unidos)**, es totalmente gratuito. 
+>
+> El curso está desarrollado por el Departamento de Geografía de la **Universidad de Pensilvania (Estados Unidos)**, es totalmente gratuito.
 >
 > para ver el curso, [haz clic aquí](https://www.e-education.psu.edu/geog489/home.html)
->
 
-
->
 > ## Catálogo de Visualización de datos
-> 
-> La página contiene información sobre los diferentes tipos, caracteristicas y 
-> usos de gráficos para el aprendizaje sobre la visualización de datos. 
+>
+> La página contiene información sobre los diferentes tipos, caracteristicas y usos de gráficos para el aprendizaje sobre la visualización de datos.
 >
 > para ver la página, [haz clic aquí](https://datavizcatalogue.com/)
->
 
-
->
 > ## GIS en R
-> 
-> Son tutoriales orientados a usuarios de R, no requieren conocimientos de 
-> análisis espacial, los tutoriales incluyen datos y ejercicios de apoyo. 
+>
+> Son tutoriales orientados a usuarios de R, no requieren conocimientos de análisis espacial, los tutoriales incluyen datos y ejercicios de apoyo.
 >
 > para ver los tutoriales, [haz clic aquí](https://www.nickeubank.com/gis-in-r/)
->
-
-
